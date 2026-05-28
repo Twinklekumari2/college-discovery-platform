@@ -48,6 +48,7 @@ my-app/
 ⚙️ Setup and Installation
 Follow these steps to clone the repository and run the platform locally on your computer.
 
+```
 1. Clone the repository
 Open your terminal, navigate to the folder where you want to save the project, and run the following command to download the code:
 

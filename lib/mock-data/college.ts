@@ -42,7 +42,7 @@ export const colleges = [
     fees: 190000,
     rating: 4.4,
     image:
-      "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1677567996070-68fa4181775a?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     courses: ["B.Tech Software Engineering", "B.Tech IT", "M.Tech"],
     placement: "16.2 LPA Avg",
     highestPackage: "64 LPA",
@@ -82,7 +82,7 @@ export const colleges = [
     fees: 225000,
     rating: 4.7,
     image:
-      "https://images.unsplash.com/photo-1590012314607-cda9d9b6a9a9?w=500&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     courses: [
       "B.Tech CSE",
       "B.Tech Agricultural",
@@ -126,7 +126,7 @@ export const colleges = [
     fees: 150000,
     rating: 4.5,
     image:
-      "https://images.unsplash.com/photo-1610116306796-6ebd30d79143?w=500&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/20/cambridge.JPG?q=80&w=1147&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     courses: [
       "B.Tech Information Tech",
       "B.Tech Mining",
@@ -186,7 +186,7 @@ export const colleges = [
     fees: 410000,
     rating: 4.2,
     image:
-      "https://images.unsplash.com/photo-1525920980462-9602868f61b0?w=500&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/flagged/photo-1554473675-d0904f3cbf38?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     courses: [
       "B.Tech CSE",
       "B.Tech Mechatronics",
@@ -218,7 +218,7 @@ export const colleges = [
     fees: 55000,
     rating: 4.5,
     image:
-      "https://images.unsplash.com/photo-1595113316349-9fa4ee24f884?w=500&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1637032195172-10b39fb5b8e2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     courses: ["B.E. IT", "B.E. Printing Tech", "M.E. Structural"],
     placement: "10.8 LPA Avg",
     highestPackage: "38 LPA",
@@ -246,7 +246,7 @@ export const colleges = [
     fees: 135000,
     rating: 4.1,
     image:
-      "https://images.unsplash.com/photo-1598395938300-c0a1606b296b?w=500&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1637032195172-10b39fb5b8e2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     courses: [
       "B.Tech Chemical Eng",
       "B.Tech Paint Tech",
@@ -262,7 +262,7 @@ export const colleges = [
     fees: 125000,
     rating: 4.4,
     image:
-      "https://images.unsplash.com/photo-1498243691581-b145c3f54a5c?w=500&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=500&auto=format&fit=crop&q=60",
     courses: [
       "B.Tech Computer Engineering",
       "B.Tech Metallurgy",
