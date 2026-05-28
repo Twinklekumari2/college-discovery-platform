@@ -1,0 +1,222 @@
+[
+  {
+    "id": "1",
+    "name": "Indian Institute of Technology, Delhi (IITD)",
+    "location": "Delhi",
+    "fees": 220000,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60",
+    "courses": ["B.Tech Computer Science", "M.Tech Data Science", "MBA"],
+    "placement": "25.8 LPA Avg",
+    "highestPackage": "1.2 Crore"
+  },
+  {
+    "id": "2",
+    "name": "Indian Institute of Technology, Bombay (IITB)",
+    "location": "Mumbai",
+    "fees": 230000,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60",
+    "courses": ["B.Tech Electrical", "B.Tech Aerospace", "M.Tech AI"],
+    "placement": "27.2 LPA Avg",
+    "highestPackage": "1.5 Crore"
+  },
+  {
+    "id": "3",
+    "name": "BITS Pilani",
+    "location": "Pilani",
+    "fees": 450000,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60",
+    "courses": ["B.E. Computer Science", "B.E. Chemical", "M.Sc Physics"],
+    "placement": "19.5 LPA Avg",
+    "highestPackage": "60 LPA"
+  },
+  {
+    "id": "4",
+    "name": "Delhi Technological University (DTU)",
+    "location": "Delhi",
+    "fees": 190000,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60",
+    "courses": ["B.Tech Software Engineering", "B.Tech IT", "M.Tech"],
+    "placement": "16.2 LPA Avg",
+    "highestPackage": "64 LPA"
+  },
+  {
+    "id": "5",
+    "name": "Vellore Institute of Technology (VIT)",
+    "location": "Vellore",
+    "fees": 300000,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1607013251379-e6eecfffe234?w=500&auto=format&fit=crop&q=60",
+    "courses": ["B.Tech CSE", "B.Tech ECE", "MCA"],
+    "placement": "9.2 LPA Avg",
+    "highestPackage": "44 LPA"
+  },
+  {
+    "id": "6",
+    "name": "Indian Institute of Technology, Madras (IITM)",
+    "location": "Chennai",
+    "fees": 215000,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=500&auto=format&fit=crop&q=60",
+    "courses": ["B.Tech Computer Science", "B.Tech Mechanical", "M.Tech Quantum Tech"],
+    "placement": "26.1 LPA Avg",
+    "highestPackage": "1.31 Crore"
+  },
+  {
+    "id": "7",
+    "name": "Indian Institute of Technology, Kharagpur (IITKGP)",
+    "location": "Kharagpur",
+    "fees": 225000,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1590012314607-cda9d9b6a9a9?w=500&auto=format&fit=crop&q=60",
+    "courses": ["B.Tech CSE", "B.Tech Agricultural", "Integrated M.Sc"],
+    "placement": "22.5 LPA Avg",
+    "highestPackage": "1.0 Crore"
+  },
+  {
+    "id": "8",
+    "name": "Indian Institute of Technology, Roorkee (IITR)",
+    "location": "Roorkee",
+    "fees": 230000,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1564981797816-1043664bf78d?w=500&auto=format&fit=crop&q=60",
+    "courses": ["B.Tech Civil", "B.Tech CSE", "B.Arch"],
+    "placement": "21.2 LPA Avg",
+    "highestPackage": "1.1 Crore"
+  },
+  {
+    "id": "9",
+    "name": "National Institute of Technology, Trichy (NITT)",
+    "location": "Tiruchirappalli",
+    "fees": 145000,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1627556704290-2b1f5853ff78?w=500&auto=format&fit=crop&q=60",
+    "courses": ["B.Tech Computer Science", "B.Tech Production", "M.Tech VLSI"],
+    "placement": "15.8 LPA Avg",
+    "highestPackage": "52 LPA"
+  },
+  {
+    "id": "10",
+    "name": "National Institute of Technology, Surathkal (NITK)",
+    "location": "Mangaluru",
+    "fees": 150000,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1610116306796-6ebd30d79143?w=500&auto=format&fit=crop&q=60",
+    "courses": ["B.Tech Information Tech", "B.Tech Mining", "M.C.A"],
+    "placement": "16.4 LPA Avg",
+    "highestPackage": "54 LPA"
+  },
+  {
+    "id": "11",
+    "name": "International Institute of Information Technology (IIITH)",
+    "location": "Hyderabad",
+    "fees": 360000,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&auto=format&fit=crop&q=60",
+    "courses": ["B.Tech CSE", "B.Tech ECE", "Dual Degree CSE"],
+    "placement": "30.1 LPA Avg",
+    "highestPackage": "1.02 Crore"
+  },
+  {
+    "id": "12",
+    "name": "Indian Institute of Information Technology (IIITA)",
+    "location": "Prayagraj",
+    "fees": 180000,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1548345680-f5475ea5df84?w=500&auto=format&fit=crop&q=60",
+    "courses": ["B.Tech Information Tech", "B.Tech ECE", "M.Tech Cyber Security"],
+    "placement": "25.2 LPA Avg",
+    "highestPackage": "82 LPA"
+  },
+  {
+    "id": "13",
+    "name": "Netaji Subhas University of Technology (NSUT)",
+    "location": "Delhi",
+    "fees": 210000,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=500&auto=format&fit=crop&q=60",
+    "courses": ["B.Tech Computer Engineering", "B.Tech MAC", "M.Tech"],
+    "placement": "15.1 LPA Avg",
+    "highestPackage": "58 LPA"
+  },
+  {
+    "id": "14",
+    "name": "Thapar Institute of Engineering and Technology",
+    "location": "Patiala",
+    "fees": 410000,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1525920980462-9602868f61b0?w=500&auto=format&fit=crop&q=60",
+    "courses": ["B.Tech CSE", "B.Tech Mechatronics", "B.Tech Biotech"],
+    "placement": "11.5 LPA Avg",
+    "highestPackage": "40 LPA"
+  },
+  {
+    "id": "15",
+    "name": "Manipal Institute of Technology (MIT)",
+    "location": "Manipal",
+    "fees": 435000,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1565034946487-077786996e27?w=500&auto=format&fit=crop&q=60",
+    "courses": ["B.Tech Computer Science", "B.Tech Data Science", "B.Tech CCE"],
+    "placement": "12.4 LPA Avg",
+    "highestPackage": "54 LPA"
+  },
+  {
+    "id": "16",
+    "name": "College of Engineering, Guindy (CEG)",
+    "location": "Chennai",
+    "fees": 55000,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1595113316349-9fa4ee24f884?w=500&auto=format&fit=crop&q=60",
+    "courses": ["B.E. IT", "B.E. Printing Tech", "M.E. Structural"],
+    "placement": "10.8 LPA Avg",
+    "highestPackage": "38 LPA"
+  },
+  {
+    "id": "17",
+    "name": "Jadavpur University",
+    "location": "Kolkata",
+    "fees": 10000,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1519452575417-564c1401ecc0?w=500&auto=format&fit=crop&q=60",
+    "courses": ["B.E. Computer Science", "B.E. Power Eng", "B.E. Chemical"],
+    "placement": "14.5 LPA Avg",
+    "highestPackage": "85 LPA"
+  },
+  {
+    "id": "18",
+    "name": "HBTU Kanpur",
+    "location": "Kanpur",
+    "fees": 135000,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1598395938300-c0a1606b296b?w=500&auto=format&fit=crop&q=60",
+    "courses": ["B.Tech Chemical Eng", "B.Tech Paint Tech", "B.Tech CSE"],
+    "placement": "9.3 LPA Avg",
+    "highestPackage": "36 LPA"
+  },
+  {
+    "id": "19",
+    "name": "COEP Technological University",
+    "location": "Pune",
+    "fees": 125000,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5c?w=500&auto=format&fit=crop&q=60",
+    "courses": ["B.Tech Computer Engineering", "B.Tech Metallurgy", "M.Tech Design"],
+    "placement": "11.2 LPA Avg",
+    "highestPackage": "50 LPA"
+  },
+  {
+    "id": "20",
+    "name": "SRM Institute of Science and Technology",
+    "location": "Chennai",
+    "fees": 275000,
+    "rating": 4.0,
+    "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=500&auto=format&fit=crop&q=60",
+    "courses": ["B.Tech CSE (Cloud Computing)", "B.Tech Biotech", "M.Tech"],
+    "placement": "8.5 LPA Avg",
+    "highestPackage": "42 LPA"
+  }
+]
