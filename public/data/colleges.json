@@ -218,5 +218,21 @@
     "courses": ["B.Tech CSE (Cloud Computing)", "B.Tech Biotech", "M.Tech"],
     "placement": "8.5 LPA Avg",
     "highestPackage": "42 LPA"
+  },
+  {
+    "id": "21",
+    "name": "Indian Institute of Information Technology, Bhagalpur (IIIT Bhagalpur)",
+    "location": "Bhagalpur",
+    "fees": 185000,
+    "rating": 4.2,
+    "image":
+      "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60",
+    "courses": [
+      "B.Tech Computer Science",
+      "B.Tech Electronics and Communication",
+      "B.Tech Mechatronics"
+    ],
+    "placement": "14.8 LPA Avg",
+    "highestPackage": "46 LPA"
   }
 ]
