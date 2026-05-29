@@ -75,6 +75,9 @@ npm run dev
 Once started, open your web browser and navigate to:
 http://localhost:3000
 
+Live URL: 
+https://college-discovery-platform-five-sooty.vercel.app/
+
 💡 Technical Data Flow
 When a user navigates to the /saved page, the platform handles the data parsing through this lifecycle sequence:
 
