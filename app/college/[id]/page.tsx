@@ -26,8 +26,6 @@ export default function CollegeDetailPage() {
 
   return (
     <div className="relative flex min-h-screen w-full flex-col bg-black text-white">
-      <NavbarDemo />
-      
       <main className="container mx-auto max-w-5xl px-6 py-12 pt-32">
         <div className="relative h-64 w-full overflow-hidden rounded-3xl border border-neutral-800 bg-neutral-900 sm:h-96">
           <img
